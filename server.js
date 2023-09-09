@@ -1,6 +1,8 @@
 const express = require('express');
 const routes = require('./routes');
 // import sequelize connection
+// sequlize hepls us connect to a databasebase and perform operation without writing  raw SQL queries
+const sequelize = require('./config/connection');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
