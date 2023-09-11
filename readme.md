@@ -2,7 +2,9 @@
 
 ## Description
 
+Internet retail (e-commerce) play a significant role within the electronics industry as it empowers businesses and consumers alike to conveniently engage in online buying and selling of electronic products.
 
+The challenge is to build the backend for an e-commerce site working with express.js, API, and conjure it to use sequelize to interact with a mySQL database.
 
 ## Table of Contents
 
@@ -19,7 +21,6 @@ I used the tools that I had on my computer, like Git, Vscode, Github, and Google
 ## Usage
 
 Screen-recording of the usage:
-
 
 ## Credits
 
